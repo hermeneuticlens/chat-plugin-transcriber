@@ -3,5 +3,5 @@
 Based on [lobehub/chat-plugin-template](https://github.com/lobehub/chat-plugin-template)
 
 ## Objective
-* Proivde audio transcription support for LobeChat.
+* Provide audio transcription support for LobeChat.
 * Can convert video to audio for transcription processing.
